@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 56" role="img" aria-label="Farmácia Clínica — Integra Farmácia HRN">
+  <rect y="4" width="48" height="48" rx="10" fill="#e3f1fa"/>
+  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#0369a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2"/><rect x="9" y="3" width="6" height="4" rx="2"/><path d="M9 14l2 2l4 -4"/></g>
+  <text x="62" y="27" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="20" font-weight="700" letter-spacing="-.2" fill="#111827">Farmácia Clínica</text>
+  <text x="62" y="47" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="12.5" font-weight="500" fill="#4b5563"><tspan font-weight="700" fill="#0f766e">Integra Farmácia HRN</tspan> · Farmácia Clínica</text>
+</svg>

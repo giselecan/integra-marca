@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 56" role="img" aria-label="PGA HRN — Integra Farmácia HRN">
+  <rect y="4" width="48" height="48" rx="10" fill="#0f2533"/>
+  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><path d="M12 7v-4m-1 0h2"/><path d="M12 17v4m-1 0h2"/><path d="M7 12h-4m0 -1v2"/><path d="M17 12h4m0 -1v2"/><path d="M15.5 8.5l2.1 -2.1"/><path d="M8.5 15.5l-2.1 2.1"/></g>
+  <text x="62" y="27" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="20" font-weight="700" letter-spacing="-.2" fill="#e9eef4">PGA HRN</text>
+  <text x="62" y="47" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="12.5" font-weight="500" fill="#b0bac6"><tspan font-weight="700" fill="#2dd4bf">Integra Farmácia HRN</tspan> · Farmácia Clínica</text>
+</svg>
