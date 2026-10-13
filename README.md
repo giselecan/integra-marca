@@ -7,6 +7,8 @@ Gerado por `scripts/marca/gerar.mjs --png --publico` no repositório do Integra.
 
 ## Favicon de cada ferramenta (para o `setFaviconUrl` do Apps Script)
 
+Use o `icone-192.png` (mesma pasta do `favicon.png`): a aba mostra igual e o atalho na tela inicial do celular ganha o ícone.
+
 | Ferramenta | Título da aba | Favicon |
 |---|---|---|
 | Integra Farmácia HRN | Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/integra/favicon.png |
