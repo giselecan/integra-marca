@@ -14,6 +14,7 @@ Use o `icone-192.png` (mesma pasta do `favicon.png`): a aba mostra igual e o ata
 | Integra Farmácia HRN | Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/integra/favicon.png |
 | PGA HRN | PGA · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-pga/favicon.png |
 | Farmácia Clínica | Farmácia Clínica · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-producao-farmacia-clinica/favicon.png |
+| Auditoria da Cadeia | Auditoria da Cadeia · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-auditoria-cadeia/favicon.png |
 | VigiRAM | VigiRAM · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-vigiram/favicon.png |
 | Abastecimento · Ruptura iminente | Ruptura iminente · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-abastecimento-ruptura/favicon.png |
 | MEMORANDO | MEMORANDO · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-envio-documentos-sede/favicon.png |

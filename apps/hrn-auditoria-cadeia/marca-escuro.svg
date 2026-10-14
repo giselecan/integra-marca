@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 56" role="img" aria-label="Auditoria da Cadeia — Integra Farmácia HRN">
+  <rect y="4" width="48" height="48" rx="10" fill="#0f2533"/>
+  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 15l6 -6"/><path d="M11 6l.46 -.54a5 5 0 0 1 7.07 7.07l-.53 .47"/><path d="M13 18l-.4 .53a5.07 5.07 0 0 1 -7.13 0a4.97 4.97 0 0 1 0 -7.07l.53 -.46"/></g>
+  <text x="62" y="27" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="20" font-weight="700" letter-spacing="-.2" fill="#e9eef4">Auditoria da Cadeia</text>
+  <text x="62" y="47" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="12.5" font-weight="500" fill="#b0bac6"><tspan font-weight="700" fill="#2dd4bf">Integra Farmácia HRN</tspan> · Farmácia Clínica</text>
+</svg>
