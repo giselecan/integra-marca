@@ -17,7 +17,7 @@ Use o `icone-192.png` (mesma pasta do `favicon.png`): a aba mostra igual e o ata
 | Auditoria da Cadeia | Auditoria da Cadeia · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-auditoria-cadeia/favicon.png |
 | VigiRAM | VigiRAM · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-vigiram/favicon.png |
 | Multidose | Multidose · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-multidose/favicon.png |
-| Abastecimento · Ruptura iminente | Ruptura iminente · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-abastecimento-ruptura/favicon.png |
+| Abastecimento | Abastecimento · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-abastecimento-ruptura/favicon.png |
 | MEMORANDO | MEMORANDO · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-envio-documentos-sede/favicon.png |
 | Consulta Rápida de Consumo | Consumo · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-consulta-consumo/favicon.png |
 | SIGV · Gestão da Validade | SIGV · Integra Farmácia HRN | https://raw.githubusercontent.com/giselecan/integra-marca/main/apps/hrn-gestao-da-validade/favicon.png |

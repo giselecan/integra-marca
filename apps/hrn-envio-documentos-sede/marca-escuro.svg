@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309 56" role="img" aria-label="MEMORANDO — Integra Farmácia HRN">
-  <rect y="4" width="48" height="48" rx="10" fill="#0f2a20"/>
-  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#6ee7b7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3v4a1 1 0 0 0 1 1h4"/><path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/><path d="M9 9h1"/><path d="M9 13h6"/><path d="M9 17h6"/></g>
+  <rect y="4" width="48" height="48" rx="10" fill="#10291a"/>
+  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#86efac" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3v4a1 1 0 0 0 1 1h4"/><path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/><path d="M9 9h1"/><path d="M9 13h6"/><path d="M9 17h6"/></g>
   <text x="62" y="27" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="20" font-weight="700" letter-spacing="-.2" fill="#e9eef4">MEMORANDO</text>
   <text x="62" y="47" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="12.5" font-weight="500" fill="#b0bac6"><tspan font-weight="700" fill="#2dd4bf">Integra Farmácia HRN</tspan> · Abastecimento</text>
 </svg>

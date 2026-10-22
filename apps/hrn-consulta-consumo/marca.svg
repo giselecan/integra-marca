@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 56" role="img" aria-label="Consulta Rápida de Consumo — Integra Farmácia HRN">
-  <rect y="4" width="48" height="48" rx="10" fill="#e3f5ec"/>
-  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="M21 21l-6 -6"/><path d="M7 13v-2"/><path d="M10 13v-5"/><path d="M13 13v-3"/></g>
+  <rect y="4" width="48" height="48" rx="10" fill="#ecf8ef"/>
+  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#15803d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="M21 21l-6 -6"/><path d="M7 13v-2"/><path d="M10 13v-5"/><path d="M13 13v-3"/></g>
   <text x="62" y="27" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="20" font-weight="700" letter-spacing="-.2" fill="#111827">Consulta Rápida de Consumo</text>
   <text x="62" y="47" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="12.5" font-weight="500" fill="#4b5563"><tspan font-weight="700" fill="#0f766e">Integra Farmácia HRN</tspan> · Abastecimento</text>
 </svg>
