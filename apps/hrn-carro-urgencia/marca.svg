@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 289 56" role="img" aria-label="Carro de Urgência — Integra Farmácia HRN">
+  <rect y="4" width="48" height="48" rx="10" fill="#eceefd"/>
+  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#4338ca" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="13" rx="2"/><path d="M3 7.5h18"/><path d="M3 11.75h18"/><circle cx="7" cy="20.5" r="1.5"/><circle cx="17" cy="20.5" r="1.5"/></g>
+  <text x="62" y="27" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="20" font-weight="700" letter-spacing="-.2" fill="#111827">Carro de Urgência</text>
+  <text x="62" y="47" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="12.5" font-weight="500" fill="#4b5563"><tspan font-weight="700" fill="#0f766e">Integra Farmácia HRN</tspan> · Supervisão</text>
+</svg>

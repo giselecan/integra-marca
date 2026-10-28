@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 289 56" role="img" aria-label="Saída da Reanimação — Integra Farmácia HRN">
+  <rect y="4" width="48" height="48" rx="10" fill="#1e2142"/>
+  <g transform="translate(10 14) scale(1.1667)" fill="none" stroke="#a5b4fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19.5 13.572l-7.5 7.428l-2.896 -2.868m-6.117 -8.104a5 5 0 0 1 9.013 -3.022a5 5 0 1 1 7.5 6.572"/><path d="M3 13h2l2 3l2 -6l1 3h3"/></g>
+  <text x="62" y="27" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="20" font-weight="700" letter-spacing="-.2" fill="#e9eef4">Saída da Reanimação</text>
+  <text x="62" y="47" font-family='Figtree, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size="12.5" font-weight="500" fill="#b0bac6"><tspan font-weight="700" fill="#2dd4bf">Integra Farmácia HRN</tspan> · Supervisão</text>
+</svg>
